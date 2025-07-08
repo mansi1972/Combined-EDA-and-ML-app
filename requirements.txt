@@ -3,9 +3,11 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
 plotly
-lazypredict
-pandas
-numpy
 scikit-learn
+xgboost
+lightgbm
+catboost
+lazypredict
+openpyxl
+xlrd>=2.0.1
