@@ -5,3 +5,7 @@ matplotlib
 seaborn
 scikit-learn
 plotly
+lazypredict
+pandas
+numpy
+scikit-learn
